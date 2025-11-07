@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 👤 About Me:
 Hi, I’m Julian, a technology enthusiast with a deep passion for programming. I thrive on learning new things, sharpening my coding skills, and exploring the latest innovations in tech.
 
 ---
