@@ -1,6 +1,15 @@
 ## 💫 About Me:
 Hi, I’m Julian, a technology enthusiast with a deep passion for programming. I thrive on learning new things, sharpening my coding skills, and exploring the latest innovations in tech.
 
+---
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliandc/juliandc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliandc/juliandc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juliandc/juliandc/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/juliandc__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/julianda-caesar-prakoso) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juliandacaesarprakoso@gmail.com) 
