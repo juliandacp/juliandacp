@@ -23,4 +23,24 @@ Hi, I’m Julian, a technology enthusiast with a deep passion for programming. I
 ![](https://nirzak-streak-stats.vercel.app/?user=juliandacp&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juliandacp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+# Bash Script Automation
+
+### Deskripsi
+Script ini menggunakan menu interaktif sehingga pengguna dapat menjalankan beberapa perintah umum tanpa perlu mengetik perintah panjang secara manual
+
+### Fitur Utama
+- Membuat folder project baru secara otomatis
+- Inisialisasi Git repository (`git init`)
+- Membuat struktur folder project (`src`, `docs`, `README`)
+- Compile dan menjalankan program C++ menggunakan `g++`
+- Menjalankan program Python menggunakan `python3`
+- Backup folder project ke format `.zip`
+- Update sistem Ubuntu (`apt update && apt upgrade`)
+
+### Cara Menjalankan
+   ```bash
+   chmod +x bashscript.sh
+   ./bashscript.sh
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/841zVG7X)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
