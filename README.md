@@ -23,3 +23,8 @@ Hi, I’m Julian, a technology enthusiast with a deep passion for programming. I
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juliandacp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### Cara Menjalankan
+   ```bash
+   chmod +x bashscript.sh
+   ./bashscript.sh
