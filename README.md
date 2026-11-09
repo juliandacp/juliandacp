@@ -1,26 +1,24 @@
-## 👤 About Me:
-Hi, I’m Julian, a technology enthusiast with a deep passion for programming. I thrive on learning new things, sharpening my coding skills, and exploring the latest innovations in tech.
+# Hello, I`m Julianda Caesar Prakoso 👋
 
----
-###
+![Banner](assets/banner.png)
 
+Hi! I'm an Informatics Engineering undergraduate at Institut Teknologi Sepuluh Nopember (ITS), Indonesia, with a strong passion for cybersecurity, problem solving, and computer science. I'm particularly interested in exploring the world of cybersecurity, especially ethical hacking and vulnerability research, with the ambition of becoming a skilled cybersecurity professional and contributing to a safer digital environment.
+
+With a background in competitive programming and logic competitions. I enjoy tackling complex challenges, developing analytical thinking, and continuously expanding my technical knowledge. Beyond learning, I also enjoy sharing knowledge through mentoring and teaching programming and artificial intelligence. I'm always eager to explore new technologies, take on challenging experiences, and turn curiosity into meaningful growth. Let's connect and learn something new together! 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juliandc__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliandacp)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juliandacaesarprakoso@gmail.com) 
+
+## 💻 Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,html,css,js,laravel,php" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliandacp/juliandacp/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliandacp/juliandacp/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juliandacp/juliandacp/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliandacp/juliandacp/output/pacman-contribution-graph-dark.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juliandacp/juliandacp/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juliandc__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julianda-caesar-prakoso) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juliandacaesarprakoso@gmail.com) 
-
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=juliandacp&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=juliandacp&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juliandacp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
